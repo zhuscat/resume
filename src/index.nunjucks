@@ -1,0 +1,25 @@
+{% extends '_layouts/base.nunjucks' %}
+
+{% macro mark(string) %}
+  <span class="mark">{{ string }}</span>
+{% endmacro %}
+
+{% import "_modules/link/link.nunjucks" as link %}
+
+{% block content %}
+<div class="main-container">
+  {% include "_modules/header/header.nunjucks" %}
+  <div class="detail-container">
+    <div class="left-container">
+      {% include "_modules/education/education.nunjucks" %}
+      {% include "_modules/project/project.nunjucks" %}
+    </div>
+    <div class="right-container">
+      {% include "_modules/skill/skill.nunjucks" %}
+    </div>
+  </div>
+</div>
+<a class="pdf-download" href="/resume.pdf">
+  <i class="iconfont">&#xe62a;</i>
+</a>
+{% endblock %}

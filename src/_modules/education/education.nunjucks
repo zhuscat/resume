@@ -1,0 +1,16 @@
+<section class="resume-section">
+  <h1 class="maintitle">教育经历</h1>
+  <div>
+    <ul>
+      <li>
+        <h2 class="subtitle">华南理工大学 本科（2014 - 2018）</h2>
+        <ul>
+          <li class="atom-item">软件学院 / 软件工程（卓越班）</li>
+          <li class="atom-item">GPA 3.82 专业排名第五</li>
+          <li class="atom-item">英语水平 CET4 / CET6</li>
+          <li class="atom-item">学校一等奖学金</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</section>

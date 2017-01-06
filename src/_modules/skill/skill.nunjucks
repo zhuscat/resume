@@ -1,0 +1,103 @@
+<section class="resume-section">
+  <h1 class="maintitle">技能清单</h1>
+  <ul>
+    <li class="sub-item">
+      <h2 class="subtitle">Web 前端</h2>
+      <ul>
+        <li>
+          <h2 class="atom-title">JavaScript</h2>
+          <ul>
+            <li class="atom-item">熟悉 {{ mark("ECMA") }} 规范，{{ mark("DOM API")}}，能够使用原生JS进行编码</li>
+            <li class="atom-item">熟悉 {{ mark("React")}}、{{ mark("Redux")}} 等库、框架，熟悉 {{ mark("Webpack") }}、{{ mark("Babel") }}、{{ mark("Gulp") }}</li>
+          </ul>
+        </li>
+        <li>
+          <h2 class="atom-title">HTML</h2>
+          <ul>
+            <li class="atom-item">
+              HTML 语义化，SEO，HTML5
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h2 class="atom-title">CSS</h2>
+          <ul>
+            <li class="atom-item">CSS {{ mark("模块化") }}，BEM，{{ mark("Sass") }}</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">Web 后端</h2>
+      <ul>
+        <li>
+          <h2 class="atom-title">Node.js</h2>
+          <ul>
+            <li class="atom-item">
+              熟悉 ECMAScript 6、ECMAScript 7 标准，了解异步 I/0，事件驱动，能够用异步编程的思维进行 Node.js 代码的编写。
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h2 class="atom-title">MongoDB</h2>
+          <ul>
+            <li class="atom-item">
+              有使用 MongoDB 的经验
+            </li>
+          </ul>
+        </li>
+        <li>
+          <h2 class="atom-title">MySQL</h2>
+          <ul>
+            <li class="atom-item">
+              有使用 MySQL 的经验
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">移动客户端</h2>
+      <ul>
+        <li>
+          <h2 class="atom-title">iOS</h2>
+          <ul>
+            <li class="atom-item">
+              会编写 iOS 应用，能够使用 {{ mark("Objective-C") }} 与 {{ mark("Swift") }} 进行简单应用的编写
+            </li>
+            <li class="atom-item">
+              了解过 {{ mark("React Native") }}，尝试过编写一个{{ mark("混合应用") }}的 Demo，了解混合应用的优缺点以及应用场景
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">运维</h2>
+      <ul>
+        <li class="atom-item">
+          熟悉 {{ mark("*nix")}} 系统，熟悉 {{ mark("*nix")}} 的基本命令
+        </li>
+        <li class="atom-item">
+          熟悉 {{ mark("Git")}} 基本命令，一直使用 Git 管理自己的个人项目
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">管理</h2>
+      <ul>
+        <li class="atom-item">担任过软件学院{{ mark("宣传部副部长") }}，平时负责部门内技术培训以及财务管理</li>
+        <li class="atom-item">参与组织过 PS 培训会，总计参与人数超过{{ mark("200") }}人（先这样写。。。）</li>
+        <li class="atom-item">参与组织{{ mark("超过50支") }}队伍参赛的软件学院软件文化节Logo设计大赛，并为大赛制作了宣传与报名网站</li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">其他</h2>
+      <ul>
+        <li class="atom-item">对新技术充满兴趣，有较强的自学能力</li>
+        <li class="atom-item">基本上能够流畅地阅读英文文档，能够使用英文在开源社区中与人交流</li>
+        <li class="atom-item">使用 macOS 作为工作环境，使用 VSCode， Sublime， Atom 为开发工具</li>
+      </ul>
+    </li>
+  </ul>
+</section>

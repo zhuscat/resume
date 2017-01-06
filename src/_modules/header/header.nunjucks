@@ -1,0 +1,28 @@
+<div class="header">
+  <div>
+    <h1 class="header__name">朱良臻</h1>
+    <h2 class="header__job">前端开发工程师 / Node开发工程师</h2>
+    <ul>
+      <li class="contact">
+        <i class="iconfont header__icon">&#xe61c;</i>
+        <span class="contact__value"><a href="mailto://zhudx6512@gmail.com">zhudx6512@gmail.com</a></span>
+      </li>
+      <li class="contact">
+        <i class="iconfont header__icon">&#xf001e;</i>
+        <span class="contact__value"><a href="http://zhuscat.com" target="_blank">zhuscat.com</a></span>
+      </li>
+      <li class="contact">
+        <i class="iconfont header__icon">&#xe6cf;</i>
+        <span class="contact__value"><a href="http://github.com/zhuscat" target="_blank">github.com/zhuscat</a></span>
+      </li>
+      <li class="contact">
+        <i class="iconfont header__icon">&#xe614;</i>
+        <span class="contact__value">18813296615</span>
+      </li>
+      <li class="contact">
+        <i class="iconfont header__icon">&#xe648;</i>
+        <span class="contact__value">295437172</span>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+// header styles
+.header {
+  margin-bottom: 18px;
+
+  &__name {
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 8px;
+  }
+
+  &__job {
+    font-weight: 28px;
+    font-weight: normal;
+    color: #236CA6;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+
+  &__icon {
+    margin-right: 8px;
+  }
+}
+
+.contact {
+  display: inline-block;
+  margin-right: 18px;
+}

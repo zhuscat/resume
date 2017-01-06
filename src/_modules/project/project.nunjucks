@@ -1,0 +1,60 @@
+<section class="resume-section">
+  <h1 class="maintitle">项目工作</h1>
+  <ul>
+    <li class="sub-item">
+      <h2 class="subtitle">IUR 政务管理系统（2016）</h2>
+      <ul>
+        <li class="atom-item">
+          这个项目中初次使用了 React 构建单页面应用，自己重新设计了该网站的界面，并进行编写
+        </li>
+        <li class="atom-item">
+          在项目中积累了 {{ mark("CORS 跨域") }}，各种用户验证机制（{{ mark("AOuth 2") }}，{{ mark("JWT") }}等）与 React 组件方案的经验
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">react-koa-isomorphic-boilerplate（2017）<a class="tag" href="https://github.com/zhuscat/react-koa-isomorphic-boilerplate" target="_blank">源码</a></h2>
+      <ul>
+        <li class="atom-item">
+          这个项目是一个用来构建 React 服务器端渲染 Web App 的样板文件，使用 Webpack 进行打包，拥有开发模式与生产模式两个 Webpack 配置，支持热更新与服务器自动重启
+        </li>
+          <li class="atom-item">
+        这个项目中，我对 Webpack 执行流程以及配置方式有了更加深入的了解。
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">书洞二手书交易平台（2016）<a class="tag" href="https://github.com/zhuscat/shudong" target="_blank">源码</a></h2>
+      <ul>
+        <li class="atom-item">
+          这个项目是软件开发实训的时候做的，使用了 Go 作为后台开发语言，这个项目中，我同时参与了前端与后端的编写。
+        </li>
+        <li class="atom-item">
+          在这个项目的一些问题，让我深刻认识到 CSS 代码复用的重要性，此外，使用 Go 语言进行后台开发让我积累了后台开发的知识。
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">Yamii 食堂推送系统App（2015）</h2>
+      <ul>
+        <li class="atom-item">
+          这个项目是百步梯攀登计划的一个团队项目，同时制作了 iOS App 与 Android App，我参与制作了 iOS App 与界面的设计，
+        </li>
+        <li class="atom-item">
+          在这个项目中，我积累了编码经验以及了解了用户交互相关的知识（改）
+        </li>
+      </ul>
+    </li>
+    <li class="sub-item">
+      <h2 class="subtitle">Moon React Library（2016）<a class="tag" href="https://github.com/zhuscat/moon" target="_blank">源码</a></h2>
+      <ul>
+        <li class="atom-item">
+          这是我自己的一个项目，是一个 React 组件库，目前我一共制作了X个组件
+        </li>
+        <li class="atom-item">
+          这个项目加深了我对 React 单向数据流的理解（改）
+        </li>
+      </ul>
+    </li>
+  </ul>
+</section>
