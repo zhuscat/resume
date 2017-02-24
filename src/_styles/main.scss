@@ -61,7 +61,7 @@ body {
   padding: 32px;
 }
 
-ul {
+ul, li {
   list-style: none;
 }
 
@@ -126,6 +126,7 @@ a:hover {
   margin-left: 18px;
   margin-bottom: 8px;
   font-size: 14px;
+  text-align: justify;
 }
 
 .detail-container {
@@ -176,6 +177,7 @@ a:hover {
   cursor: pointer;
   transition: all 0.25s;
   font-weight: normal;
+  margin-right: 6px;
 
   &:hover {
     text-decoration: none;
