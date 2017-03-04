@@ -5,8 +5,9 @@ Generated on 2017-01-05 using
 
 ## Description
 
-This is an example readme file.
-Describe your site/app here.
+我的简历
+
+欢迎访问 [简历](http://resume.zhuscat.com)
 
 ## Technologies used
 
