@@ -185,3 +185,21 @@ a:hover {
     color: #fff;
   }
 }
+
+@media print {
+  .atom-title {
+    color: #000;
+  }
+
+  a {
+    color: #000;
+  }
+
+  .mark {
+    color: #000;
+  }
+
+  .pdf-download {
+    display: none;
+  }
+}

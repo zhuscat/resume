@@ -25,3 +25,9 @@
   display: inline-block;
   margin-right: 18px;
 }
+
+@media print {
+  .header__job {
+    color: #000;
+  }
+}
